@@ -28,10 +28,12 @@ public class Aula4 {
         //System.out.println(r1.getNome());
         //System.out.println(s1.getNome());
         //System.out.println(m1.getNome());
+        //System.out.println("");
         
-        //System.out.println(((Robo)m1).getNome());
+        System.out.println(((Robo)m1).getNome());
         //System.out.println(r2.getNome());
         //System.out.println(r3.getNome());
+        System.out.println("");
         
         Robo r[] = new Robo[3];
         r[0] = r1;
